@@ -1,5 +1,5 @@
 {
-  "name": "code-crafters",
+  "name": "code-crafters-bold",
   "type": "module",
   "scripts": {
     "fetch-data": "node fetch-data.js",
